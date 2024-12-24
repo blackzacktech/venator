@@ -7,25 +7,21 @@
 - Supervising (Senior) Commander
 - Commander
 
-
 **Security-Level 4**
 
 - Major Lieutenant 
 - Major
 - Captain
 
-
 **Security-Level 3**
 
 - Lieutenant 
 - 2nd Lieutenant 
 
-
 **Security-Level 2**
 
 - Sergeant Major 
 - Sergeant 
-
 
 **Security-Level 1**
 

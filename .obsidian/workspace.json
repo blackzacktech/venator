@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity Arbeiten/Waffensystem.md",
+                "file": "Venator Base 2.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Waffensystem"
+              "title": "Venator Base 2.0"
             }
           }
         ]
@@ -164,17 +164,18 @@
       "obsidian-livesync:Show log": false,
       "obsidian-livesync:Replicate": false,
       "send-to-ghost:Publish Ghost": false,
-      "obsidian-livesync:Show Customization sync": false
+      "obsidian-livesync:Show Customization sync": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "181a81933819495e",
   "lastOpenFiles": [
+    "Unity Arbeiten/Waffensystem.md",
     "Unity Arbeiten/ToDo.md",
     "Venator Base 2.0.md",
     "Dokumentation/Codes.md",
     "Dokumentation/27.12..md",
     "Dokumentation/Rede zur Eröffnung der Venator 2.0.md",
-    "Unity Arbeiten/Waffensystem.md",
     "Bilder/Von Luna/Hound.png",
     "Bilder/Von Luna/Hound - Kopie.png",
     "Bilder/Office/Hound/65th_Hound.png",
