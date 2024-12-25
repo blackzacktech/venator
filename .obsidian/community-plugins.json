@@ -1,9 +1,5 @@
 [
   "obsidian-livesync",
-  "image-converter",
-  "obsidian-banners",
-  "colored-text",
   "gitlab-wiki-export",
-  "send-to-ghost",
   "github-sync"
 ]
