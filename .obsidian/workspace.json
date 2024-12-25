@@ -11,10 +11,14 @@
             "id": "aed9c44e131d6bf8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Bilder/Wie bekommt man die.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Wie bekommt man die"
             }
           }
         ]
@@ -159,13 +163,13 @@
       "command-palette:Befehlspalette öffnen": false,
       "obsidian-livesync:Show log": false,
       "obsidian-livesync:Replicate": false,
-      "send-to-ghost:Publish Ghost": false,
       "obsidian-livesync:Show Customization sync": false,
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "601ccab920a14d83",
+  "active": "aed9c44e131d6bf8",
   "lastOpenFiles": [
+    "Bilder/Wie bekommt man die.md",
     "Unity Arbeiten/Waffensystem.md",
     "Unity Arbeiten/ToDo.md",
     "Venator Base 2.0.md",
